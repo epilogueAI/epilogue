@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "slug": "epilogue",
+  "provider": "ÉPILOGUE",
+  "providerUrl": "https://x.com/installEpilogue",
+  "logo": "logo.png",
+  "demo": {
+    "title": "Example usage",
+    "language": "text",
+    "code": "use the epilogue skill to create a clean exit plan for my portfolio\nuse the epilogue skill to write a post-mortem for my token\nuse the epilogue skill to generate a final chapter report"
+  },
+  "setup": [
+    "Install the skill into your Bankr agent",
+    "No API keys or external accounts required",
+    "Works with native Bankr portfolio, fees, and trading tools"
+  ],
+  "install": {
+    "type": "external",
+    "provider": "ÉPILOGUE",
+    "command": "install the epilogue skill from https://github.com/epilogueAI/epilogue",
+    "reference": "https://github.com/epilogueAI/epilogue"
+  }
+}
